@@ -42,7 +42,7 @@ function App() {
          <span><strong>Logradouro:</strong> {cep.logradouro}</span>
          <span><strong>Bairro:</strong> {cep.bairro}</span>
          <span><strong>Cidade:</strong> {cep.localidade}</span>
-         <span><strong>Estado::</strong> {cep.uf}</span>
+         <span><strong>Estado:</strong> {cep.uf}</span>
        </main>
       )};    
     </div>
